@@ -67,6 +67,6 @@ pkg install patchelf
 patchelf --add-needed libpython3.10.so.1.0 pyarmor_runtime_004817/android_aarch64/pyarmor_runtime.so
 ```
 ```
-python3.10 main.py
+python3.10 wrap.py
 ```
 
